@@ -1,0 +1,11 @@
+Site online de pariuri
+Functii puse la dispozitie:
+ - login, logout
+ - adaugare meciuri favorite
+ - adaugare bani
+ - notificari
+ - trimitere de mail-uri promotionale
+ - stergere cont
+ - setari profil
+Tool-uri folosite: frontend: html, css, javaScript
+                   backend: Scala, Sql sau folsesc Node JS in cazul in care nu resusesc sa termin codul in Scala. 
